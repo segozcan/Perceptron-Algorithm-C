@@ -79,7 +79,7 @@ int main() {
 
     result = updateWeigths(epoch, weights, rate, dataset, datasetLength);
 
-    printf("anan %.3f", result[3]);
+    printf("result %.3f", result[3]);
 
     return 0;
 }
